@@ -1,9 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F73CE0&width=435&lines=R%CD%8DE%CD%8DD%CD%8D+D%CD%8DR%CD%8DA%CD%8DG%CD%8DO%CD%8DN%CD%8D+V%CD%8D1%CD%8D;W%CC%90E%CC%90L%CC%90C%CC%90O%CC%90M%CC%90E%CC%90+T%CC%90O%CC%90+M%CC%90E%CC%90H%CC%90R%CC%90A%CC%90J%CC%90+F%CC%90F%CC%90+I%CC%90N%CC%90D%CC%90I%CC%90A%CC%90N%CC%90+H%CC%90A%CC%90C%CC%90K%CC%90E%CC%90R%CC%90" alt="Typing SVG" /></a>
-<img <img src="./1978701_1a1d2.gif/database/1978701_1a1d2.gif" alt="Loading..." width="320"/>
-
-<p align="center">" alt="Loading..." width="320"/>
-
+<img src="./Android/database/K.Prabhasha.gif" alt="Loading..." width="320"/>
+<p align="center">
 <p align="center">
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E071F7&background=000000&width=435&lines=A+passionate+frontend+developer;from+India" alt="Typing SVG" /></a>
