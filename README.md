@@ -5,11 +5,37 @@
 <p align="center">
 <img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E071F7&background=000000&width=435&lines=A+passionate+frontend+developer;from+India" alt="Typing SVG" /></a>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdmehraj6303" alt="mdmehraj6303" />src</imgea>github</p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **MOBILE HACKER📲**
+* `For Termux`
+* `type the following commands in Termux`
+ 
+
+
+* `apt-get update -y`
+* `apt-get upgrade -y`
+* `j`
+* `h`
+* `h|`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 🔭 I’m currently working on **mobile hack📲**
 
 - 💬 Ask me about **ANDROID**
 
