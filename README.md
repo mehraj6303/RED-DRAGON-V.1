@@ -20,7 +20,7 @@
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* 'git clone 
+*  `git clone https://github.com/mehraj6303/RED-DRAGON-V.1 `
 
 
 * `unzip`
