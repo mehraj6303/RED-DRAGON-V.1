@@ -20,6 +20,9 @@
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
+* 'git clone 
+
+
 * `unzip`
 * `h`
 * `h`
